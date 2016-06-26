@@ -1,9 +1,11 @@
 # Jumpline_word_game-Assembly-
 
 Program Description
+
         	The program the team had to write is a simplified version of the Android/iOS mobile game called Jumbline2. In the game, the player is asked if they want to play with five, six, or seven letters. The program then randomly generates X number of letters, depending on the user selection. After that, the program scans a dictionary and returns the words that can be formed using that set of random letters, along with the amount of each words found in the dictionary according to their length. At this point, the player must input a word guess on what they think is a word that can be assembled from that random set of letters. If the user input matches a word found in the dictionary, the program updates the score according to the length of the guess, and then plays a win sound. If the guess was incorrect, the game plays a loser sound. When a correct guess has been made, the game displays the word along with all the other correct guesses, and reduces the number of remaining words in that length category by 1. The game ends when the player has correctly guessed all the words in every length category. 
 
 User’s manual
+
 How to run the game:
 Run Mars4_5-James inside the folder(you can’t use the normal version)
 Click file- > open
